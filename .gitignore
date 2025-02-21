@@ -1,0 +1,10 @@
+# Ignore build artifacts
+**/bin/
+**/obj/
+
+/TodoApi/appsettings.json
+/TodoApi/appsettings.Development.json
+
+/TodoApi.UnitTests/CoverageReport/
+/TodoApi.UnitTests/TestResults/
+TodoApi.UnitTests/.DS_Store
